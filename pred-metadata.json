@@ -1,5 +1,6 @@
 {
   "name": "pred-test-token",
   "symbol": "pred",
-  "image":"https://test.com"
+  "image":"https://raw.githubusercontent.com/senthil-veerabahu/sol-test/refs/heads/main/pred-metadata.json",
+  "description" : "Prediction Token"
 }
